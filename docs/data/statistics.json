@@ -1,33 +1,33 @@
 {
-  "last_updated": "2025-10-13T12:31:02.119635",
+  "last_updated": "2025-10-28T22:56:22.241375",
   "statistics": {
-    "total_datasets": 3057,
-    "total_downloads": 2484498,
-    "total_likes": 36608,
+    "total_datasets": 3120,
+    "total_downloads": 2308961,
+    "total_likes": 37065,
     "top_authors": {
-      "lianghsun": 60,
+      "lianghsun": 61,
       "BAAI": 43,
       "Mxode": 33,
       "Nexdata": 27,
       "FreedomIntelligence": 25,
       "erhwenkuo": 23,
       "Azure99": 17,
+      "Mobiusi": 17,
       "Helsinki-NLP": 16,
-      "longmaodata": 14,
-      "agentlans": 14
+      "silk-road": 14
     },
     "top_tasks": {
-      "text-generation": 905,
-      "question-answering": 535,
-      "text-classification": 303,
-      "translation": 212,
+      "text-generation": 923,
+      "question-answering": 549,
+      "text-classification": 308,
+      "translation": 217,
+      "automatic-speech-recognition": 92,
       "summarization": 90,
-      "automatic-speech-recognition": 89,
-      "visual-question-answering": 85,
-      "text-to-speech": 72,
-      "image-to-text": 68,
+      "visual-question-answering": 86,
+      "text-to-speech": 74,
+      "image-to-text": 71,
       "token-classification": 67
     },
-    "multilingual_count": 1649
+    "multilingual_count": 1697
   }
 }
