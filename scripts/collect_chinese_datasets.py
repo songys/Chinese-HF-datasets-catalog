@@ -180,7 +180,7 @@ def main():
     # Generate and save statistics
     stats = generate_statistics(datasets)
     current_time = datetime.now()
-    timestamp = current_time.strftime("%Y%m%d")
+    timestamp = current_time.strftime("%Y-%m-%d")
 
     stats_data = {
         "last_updated": current_time.isoformat(),

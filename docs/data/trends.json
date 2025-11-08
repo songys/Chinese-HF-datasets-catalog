@@ -1,38 +1,33 @@
 {
-  "generated_at": "2025-10-28T22:56:46.634219",
+  "generated_at": "2025-11-08T10:59:58.702482",
   "trends": {
     "dates": [
-      "20251012",
-      "20251013",
-      "20251028"
+      "20251028",
+      "20251108"
     ],
     "total_datasets": [
-      1326,
-      3057,
-      3120
+      3120,
+      3166
     ],
     "total_downloads": [
-      890871,
-      2484498,
-      2308961
+      2308961,
+      2468295
     ],
     "total_likes": [
-      10761,
-      36608,
-      37065
+      37065,
+      37382
     ],
     "multilingual_count": [
-      585,
-      1649,
-      1697
+      0,
+      1724
     ],
-    "growth_rate": 135.29,
+    "growth_rate": 1.47,
     "latest_stats": {
-      "total_datasets": 3120,
-      "total_downloads": 2308961,
-      "total_likes": 37065,
+      "total_datasets": 3166,
+      "total_downloads": 2468295,
+      "total_likes": 37382,
       "top_authors": {
-        "lianghsun": 61,
+        "lianghsun": 63,
         "BAAI": 43,
         "Mxode": 33,
         "Nexdata": 27,
@@ -41,24 +36,24 @@
         "Azure99": 17,
         "Mobiusi": 17,
         "Helsinki-NLP": 16,
-        "silk-road": 14
+        "longmaodata": 14
       },
       "top_tasks": {
-        "text-generation": 923,
-        "question-answering": 549,
-        "text-classification": 308,
-        "translation": 217,
-        "automatic-speech-recognition": 92,
-        "summarization": 90,
-        "visual-question-answering": 86,
+        "text-generation": 939,
+        "question-answering": 562,
+        "text-classification": 319,
+        "translation": 220,
+        "automatic-speech-recognition": 93,
+        "summarization": 93,
+        "visual-question-answering": 88,
         "text-to-speech": 74,
         "image-to-text": 71,
-        "token-classification": 67
+        "token-classification": 68
       },
-      "multilingual_count": 1697
+      "multilingual_count": 1724
     },
-    "first_date": "20251012",
-    "last_date": "20251028",
-    "total_weeks": 3
+    "first_date": "20251028",
+    "last_date": "20251108",
+    "total_weeks": 2
   }
 }

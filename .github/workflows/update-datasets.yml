@@ -137,7 +137,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Weekly update: Chinese datasets (Total: ${{ steps.stats.outputs.total_datasets }} datasets, ${{ steps.stats.outputs.total_downloads }} downloads)"
-          file_pattern: "docs/data/*.json docs/data/*.csv docs/data/archive/*"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
