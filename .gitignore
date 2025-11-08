@@ -49,11 +49,17 @@ dataset_repo/
 *.tmp
 *.bak
 
-# Data files (keep only in docs/data/)
+# Data files (keep only in docs/data/ and its archive subdirectory)
 *.csv
-!docs/data/*.csv
 *.json
+
+# Allow tracking of structured data inside docs/data root
+!docs/data/*.csv
 !docs/data/*.json
+
+# Allow tracking of archive snapshots
+!docs/data/archive/*.csv
+!docs/data/archive/*.json
 
 # Logs
 *.log
