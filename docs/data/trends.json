@@ -1,64 +1,35 @@
 {
-  "generated_at": "2025-11-08T11:43:51.669301",
+  "generated_at": "2025-11-10T01:03:56.415095",
   "trends": {
     "dates": [
-      "20251013",
-      "20251028",
-      "20251108"
+      "2025-11-10",
+      "20251013"
     ],
     "total_datasets": [
-      3057,
-      3120,
-      3166
+      3175,
+      3057
     ],
     "total_downloads": [
-      2484498,
-      2308961,
-      2468295
+      2453139,
+      2484498
     ],
     "total_likes": [
-      36608,
-      37065,
-      37382
+      37415,
+      36608
     ],
     "multilingual_count": [
-      1649,
-      0,
-      1724
+      1728,
+      1649
     ],
-    "growth_rate": 3.57,
+    "growth_rate": -3.72,
     "latest_stats": {
-      "total_datasets": 3166,
-      "total_downloads": 2468295,
-      "total_likes": 37382,
-      "top_authors": {
-        "lianghsun": 63,
-        "BAAI": 43,
-        "Mxode": 33,
-        "Nexdata": 27,
-        "FreedomIntelligence": 25,
-        "erhwenkuo": 23,
-        "Azure99": 17,
-        "Mobiusi": 17,
-        "Helsinki-NLP": 16,
-        "longmaodata": 14
-      },
-      "top_tasks": {
-        "text-generation": 939,
-        "question-answering": 562,
-        "text-classification": 319,
-        "translation": 220,
-        "automatic-speech-recognition": 93,
-        "summarization": 93,
-        "visual-question-answering": 88,
-        "text-to-speech": 74,
-        "image-to-text": 71,
-        "token-classification": 68
-      },
-      "multilingual_count": 1724
+      "total_datasets": 3057,
+      "total_downloads": 2484498,
+      "total_likes": 36608,
+      "multilingual_count": 1649
     },
-    "first_date": "20251013",
-    "last_date": "20251108",
-    "total_weeks": 3
+    "first_date": "2025-11-10",
+    "last_date": "20251013",
+    "total_weeks": 2
   }
 }
