@@ -1,24 +1,29 @@
 {
-  "generated_at": "2025-11-10T01:03:56.415095",
+  "generated_at": "2025-11-17T01:02:18.766586",
   "trends": {
     "dates": [
       "2025-11-10",
+      "2025-11-17",
       "20251013"
     ],
     "total_datasets": [
       3175,
+      3350,
       3057
     ],
     "total_downloads": [
       2453139,
+      2553922,
       2484498
     ],
     "total_likes": [
       37415,
+      37626,
       36608
     ],
     "multilingual_count": [
       1728,
+      1894,
       1649
     ],
     "growth_rate": -3.72,
@@ -30,6 +35,6 @@
     },
     "first_date": "2025-11-10",
     "last_date": "20251013",
-    "total_weeks": 2
+    "total_weeks": 3
   }
 }
