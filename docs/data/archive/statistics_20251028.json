@@ -1,0 +1,33 @@
+{
+  "last_updated": "2025-10-28T22:56:22.241375",
+  "statistics": {
+    "total_datasets": 3120,
+    "total_downloads": 2308961,
+    "total_likes": 37065,
+    "top_authors": {
+      "lianghsun": 61,
+      "BAAI": 43,
+      "Mxode": 33,
+      "Nexdata": 27,
+      "FreedomIntelligence": 25,
+      "erhwenkuo": 23,
+      "Azure99": 17,
+      "Mobiusi": 17,
+      "Helsinki-NLP": 16,
+      "silk-road": 14
+    },
+    "top_tasks": {
+      "text-generation": 923,
+      "question-answering": 549,
+      "text-classification": 308,
+      "translation": 217,
+      "automatic-speech-recognition": 92,
+      "summarization": 90,
+      "visual-question-answering": 86,
+      "text-to-speech": 74,
+      "image-to-text": 71,
+      "token-classification": 67
+    },
+    "multilingual_count": 1697
+  }
+}
