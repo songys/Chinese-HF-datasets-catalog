@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T01:07:51.554260",
+  "generated_at": "2025-12-29T01:10:37.958882",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -9,7 +9,10 @@
       "2025-12-08",
       "2025-12-15",
       "2025-12-22",
-      "20251013"
+      "2025-12-29",
+      "20251012",
+      "20251013",
+      "20251028"
     ],
     "total_datasets": [
       3175,
@@ -19,7 +22,10 @@
       3729,
       3784,
       3828,
-      3057
+      3871,
+      1326,
+      3057,
+      3120
     ],
     "total_downloads": [
       2453139,
@@ -29,7 +35,10 @@
       3254937,
       3742650,
       4188726,
-      2484498
+      4339534,
+      890871,
+      2484498,
+      2308961
     ],
     "total_likes": [
       37415,
@@ -39,7 +48,10 @@
       38335,
       38609,
       38858,
-      36608
+      39124,
+      10761,
+      36608,
+      37065
     ],
     "multilingual_count": [
       1728,
@@ -49,17 +61,44 @@
       2249,
       2280,
       2311,
-      1649
+      2339,
+      585,
+      1649,
+      1697
     ],
-    "growth_rate": -3.72,
+    "growth_rate": -1.73,
     "latest_stats": {
-      "total_datasets": 3057,
-      "total_downloads": 2484498,
-      "total_likes": 36608,
-      "multilingual_count": 1649
+      "total_datasets": 3120,
+      "total_downloads": 2308961,
+      "total_likes": 37065,
+      "top_authors": {
+        "lianghsun": 61,
+        "BAAI": 43,
+        "Mxode": 33,
+        "Nexdata": 27,
+        "FreedomIntelligence": 25,
+        "erhwenkuo": 23,
+        "Azure99": 17,
+        "Mobiusi": 17,
+        "Helsinki-NLP": 16,
+        "silk-road": 14
+      },
+      "top_tasks": {
+        "text-generation": 923,
+        "question-answering": 549,
+        "text-classification": 308,
+        "translation": 217,
+        "automatic-speech-recognition": 92,
+        "summarization": 90,
+        "visual-question-answering": 86,
+        "text-to-speech": 74,
+        "image-to-text": 71,
+        "token-classification": 67
+      },
+      "multilingual_count": 1697
     },
     "first_date": "2025-11-10",
-    "last_date": "20251013",
-    "total_weeks": 8
+    "last_date": "20251028",
+    "total_weeks": 11
   }
 }
