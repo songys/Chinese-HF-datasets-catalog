@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T01:10:37.958882",
+  "generated_at": "2026-01-05T01:12:32.044597",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -12,7 +12,8 @@
       "2025-12-29",
       "20251012",
       "20251013",
-      "20251028"
+      "20251028",
+      "2026-01-05"
     ],
     "total_datasets": [
       3175,
@@ -25,7 +26,8 @@
       3871,
       1326,
       3057,
-      3120
+      3120,
+      3904
     ],
     "total_downloads": [
       2453139,
@@ -38,7 +40,8 @@
       4339534,
       890871,
       2484498,
-      2308961
+      2308961,
+      3868281
     ],
     "total_likes": [
       37415,
@@ -51,7 +54,8 @@
       39124,
       10761,
       36608,
-      37065
+      37065,
+      39453
     ],
     "multilingual_count": [
       1728,
@@ -64,41 +68,42 @@
       2339,
       585,
       1649,
-      1697
+      1697,
+      2367
     ],
-    "growth_rate": -1.73,
+    "growth_rate": 22.96,
     "latest_stats": {
-      "total_datasets": 3120,
-      "total_downloads": 2308961,
-      "total_likes": 37065,
+      "total_datasets": 3904,
+      "total_downloads": 3868281,
+      "total_likes": 39453,
       "top_authors": {
-        "lianghsun": 61,
+        "RoboCOIN": 397,
+        "lianghsun": 70,
         "BAAI": 43,
         "Mxode": 33,
+        "agentlans": 27,
         "Nexdata": 27,
-        "FreedomIntelligence": 25,
+        "FreedomIntelligence": 26,
         "erhwenkuo": 23,
-        "Azure99": 17,
-        "Mobiusi": 17,
-        "Helsinki-NLP": 16,
-        "silk-road": 14
+        "Azure99": 21,
+        "Mobiusi": 17
       },
       "top_tasks": {
-        "text-generation": 923,
-        "question-answering": 549,
-        "text-classification": 308,
-        "translation": 217,
-        "automatic-speech-recognition": 92,
-        "summarization": 90,
-        "visual-question-answering": 86,
-        "text-to-speech": 74,
-        "image-to-text": 71,
-        "token-classification": 67
+        "text-generation": 1037,
+        "question-answering": 646,
+        "robotics": 406,
+        "text-classification": 373,
+        "translation": 247,
+        "visual-question-answering": 107,
+        "automatic-speech-recognition": 103,
+        "summarization": 98,
+        "image-to-text": 91,
+        "text-to-speech": 80
       },
-      "multilingual_count": 1697
+      "multilingual_count": 2367
     },
     "first_date": "2025-11-10",
-    "last_date": "20251028",
-    "total_weeks": 11
+    "last_date": "2026-01-05",
+    "total_weeks": 12
   }
 }
