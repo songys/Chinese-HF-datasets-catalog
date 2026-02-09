@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T01:21:51.567652",
+  "generated_at": "2026-02-09T01:23:45.860217",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -17,7 +17,8 @@
       "2026-01-12",
       "2026-01-19",
       "2026-01-26",
-      "2026-02-02"
+      "2026-02-02",
+      "2026-02-09"
     ],
     "total_datasets": [
       3175,
@@ -35,7 +36,8 @@
       3955,
       4064,
       4142,
-      4223
+      4223,
+      4301
     ],
     "total_downloads": [
       2453139,
@@ -53,7 +55,8 @@
       3334372,
       3021912,
       2889126,
-      2952131
+      2952131,
+      3448921
     ],
     "total_likes": [
       37415,
@@ -71,7 +74,8 @@
       40040,
       40349,
       40864,
-      41354
+      41354,
+      41811
     ],
     "multilingual_count": [
       1728,
@@ -89,41 +93,42 @@
       2408,
       2486,
       2553,
-      2615
+      2615,
+      2661
     ],
-    "growth_rate": 33.01,
+    "growth_rate": 35.46,
     "latest_stats": {
-      "total_datasets": 4223,
-      "total_downloads": 2952131,
-      "total_likes": 41354,
+      "total_datasets": 4301,
+      "total_downloads": 3448921,
+      "total_likes": 41811,
       "top_authors": {
         "RoboCOIN": 432,
-        "lianghsun": 72,
+        "lianghsun": 73,
         "BAAI": 43,
         "Mxode": 33,
-        "agentlans": 29,
+        "eduhk-compling": 33,
         "Nexdata": 29,
+        "agentlans": 29,
         "FreedomIntelligence": 26,
         "erhwenkuo": 23,
-        "Azure99": 21,
-        "Mobiusi": 17
+        "Azure99": 21
       },
       "top_tasks": {
-        "text-generation": 1137,
-        "question-answering": 704,
+        "text-generation": 1150,
+        "question-answering": 719,
         "robotics": 441,
-        "text-classification": 408,
-        "translation": 267,
-        "automatic-speech-recognition": 118,
-        "visual-question-answering": 117,
-        "image-to-text": 103,
+        "text-classification": 414,
+        "translation": 269,
+        "automatic-speech-recognition": 126,
+        "visual-question-answering": 120,
         "summarization": 103,
-        "token-classification": 93
+        "image-to-text": 101,
+        "token-classification": 94
       },
-      "multilingual_count": 2615
+      "multilingual_count": 2661
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-02-02",
-    "total_weeks": 16
+    "last_date": "2026-02-09",
+    "total_weeks": 17
   }
 }
