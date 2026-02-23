@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T01:22:12.057887",
+  "generated_at": "2026-02-23T01:21:42.474283",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -19,7 +19,8 @@
       "2026-01-26",
       "2026-02-02",
       "2026-02-09",
-      "2026-02-16"
+      "2026-02-16",
+      "2026-02-23"
     ],
     "total_datasets": [
       3175,
@@ -39,7 +40,8 @@
       4142,
       4223,
       4301,
-      4365
+      4365,
+      4406
     ],
     "total_downloads": [
       2453139,
@@ -59,7 +61,8 @@
       2889126,
       2952131,
       3448921,
-      3510693
+      3510693,
+      3640652
     ],
     "total_likes": [
       37415,
@@ -79,7 +82,8 @@
       40864,
       41354,
       41811,
-      42379
+      42379,
+      42990
     ],
     "multilingual_count": [
       1728,
@@ -99,13 +103,14 @@
       2553,
       2615,
       2661,
-      2709
+      2709,
+      2740
     ],
-    "growth_rate": 37.48,
+    "growth_rate": 38.77,
     "latest_stats": {
-      "total_datasets": 4365,
-      "total_downloads": 3510693,
-      "total_likes": 42379,
+      "total_datasets": 4406,
+      "total_downloads": 3640652,
+      "total_likes": 42990,
       "top_authors": {
         "RoboCOIN": 432,
         "lianghsun": 75,
@@ -119,21 +124,21 @@
         "Azure99": 21
       },
       "top_tasks": {
-        "text-generation": 1175,
-        "question-answering": 727,
-        "robotics": 443,
-        "text-classification": 418,
-        "translation": 272,
-        "automatic-speech-recognition": 126,
+        "text-generation": 1193,
+        "question-answering": 736,
+        "robotics": 445,
+        "text-classification": 424,
+        "translation": 274,
+        "automatic-speech-recognition": 128,
         "visual-question-answering": 122,
-        "summarization": 104,
-        "image-to-text": 104,
-        "token-classification": 96
+        "summarization": 106,
+        "image-to-text": 105,
+        "token-classification": 98
       },
-      "multilingual_count": 2709
+      "multilingual_count": 2740
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-02-16",
-    "total_weeks": 18
+    "last_date": "2026-02-23",
+    "total_weeks": 19
   }
 }
