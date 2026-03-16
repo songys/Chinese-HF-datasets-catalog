@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T01:21:13.674506",
+  "generated_at": "2026-03-16T01:29:54.803044",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -22,7 +22,8 @@
       "2026-02-16",
       "2026-02-23",
       "2026-03-02",
-      "2026-03-09"
+      "2026-03-09",
+      "2026-03-16"
     ],
     "total_datasets": [
       3175,
@@ -45,7 +46,8 @@
       4365,
       4406,
       4471,
-      4538
+      4538,
+      4610
     ],
     "total_downloads": [
       2453139,
@@ -68,7 +70,8 @@
       3510693,
       3640652,
       3766082,
-      3564592
+      3564592,
+      4074166
     ],
     "total_likes": [
       37415,
@@ -91,7 +94,8 @@
       42379,
       42990,
       43167,
-      43332
+      43332,
+      43537
     ],
     "multilingual_count": [
       1728,
@@ -114,13 +118,14 @@
       2709,
       2740,
       2795,
-      2840
+      2840,
+      2887
     ],
-    "growth_rate": 42.93,
+    "growth_rate": 45.2,
     "latest_stats": {
-      "total_datasets": 4538,
-      "total_downloads": 3564592,
-      "total_likes": 43332,
+      "total_datasets": 4610,
+      "total_downloads": 4074166,
+      "total_likes": 43537,
       "top_authors": {
         "RoboCOIN": 432,
         "lianghsun": 76,
@@ -134,21 +139,21 @@
         "Azure99": 21
       },
       "top_tasks": {
-        "text-generation": 1241,
-        "question-answering": 768,
-        "robotics": 448,
-        "text-classification": 447,
-        "translation": 283,
-        "automatic-speech-recognition": 131,
-        "visual-question-answering": 130,
-        "summarization": 110,
-        "image-to-text": 105,
+        "text-generation": 1280,
+        "question-answering": 785,
+        "text-classification": 453,
+        "robotics": 450,
+        "translation": 286,
+        "automatic-speech-recognition": 133,
+        "visual-question-answering": 132,
+        "summarization": 113,
+        "image-to-text": 106,
         "token-classification": 101
       },
-      "multilingual_count": 2840
+      "multilingual_count": 2887
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-03-09",
-    "total_weeks": 21
+    "last_date": "2026-03-16",
+    "total_weeks": 22
   }
 }
