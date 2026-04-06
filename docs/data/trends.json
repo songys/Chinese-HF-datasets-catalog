@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T01:47:31.744297",
+  "generated_at": "2026-04-06T01:47:43.733958",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -25,7 +25,8 @@
       "2026-03-09",
       "2026-03-16",
       "2026-03-23",
-      "2026-03-30"
+      "2026-03-30",
+      "2026-04-06"
     ],
     "total_datasets": [
       3175,
@@ -51,7 +52,8 @@
       4538,
       4610,
       4672,
-      4736
+      4736,
+      4810
     ],
     "total_downloads": [
       2453139,
@@ -77,7 +79,8 @@
       3564592,
       4074166,
       4585145,
-      4890388
+      4890388,
+      4747873
     ],
     "total_likes": [
       37415,
@@ -103,7 +106,8 @@
       43332,
       43537,
       43715,
-      44030
+      44030,
+      44280
     ],
     "multilingual_count": [
       1728,
@@ -129,13 +133,14 @@
       2840,
       2887,
       2917,
-      2965
+      2965,
+      3017
     ],
-    "growth_rate": 49.17,
+    "growth_rate": 51.5,
     "latest_stats": {
-      "total_datasets": 4736,
-      "total_downloads": 4890388,
-      "total_likes": 44030,
+      "total_datasets": 4810,
+      "total_downloads": 4747873,
+      "total_likes": 44280,
       "top_authors": {
         "RoboCOIN": 401,
         "lianghsun": 83,
@@ -149,21 +154,21 @@
         "Azure99": 21
       },
       "top_tasks": {
-        "text-generation": 1324,
-        "question-answering": 814,
-        "text-classification": 482,
-        "robotics": 421,
-        "translation": 292,
-        "automatic-speech-recognition": 142,
-        "visual-question-answering": 140,
-        "summarization": 117,
-        "image-to-text": 109,
-        "token-classification": 107
+        "text-generation": 1353,
+        "question-answering": 828,
+        "text-classification": 492,
+        "robotics": 422,
+        "translation": 297,
+        "automatic-speech-recognition": 146,
+        "visual-question-answering": 145,
+        "summarization": 118,
+        "image-to-text": 116,
+        "token-classification": 109
       },
-      "multilingual_count": 2965
+      "multilingual_count": 3017
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-03-30",
-    "total_weeks": 24
+    "last_date": "2026-04-06",
+    "total_weeks": 25
   }
 }
