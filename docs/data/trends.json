@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T02:26:39.240616",
+  "generated_at": "2026-05-18T02:35:09.631787",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -31,7 +31,8 @@
       "2026-04-20",
       "2026-04-27",
       "2026-05-04",
-      "2026-05-11"
+      "2026-05-11",
+      "2026-05-18"
     ],
     "total_datasets": [
       3175,
@@ -63,7 +64,8 @@
       5065,
       5201,
       5375,
-      5554
+      5554,
+      5661
     ],
     "total_downloads": [
       2453139,
@@ -95,7 +97,8 @@
       3904423,
       3604536,
       4166159,
-      5156058
+      5156058,
+      6056520
     ],
     "total_likes": [
       37415,
@@ -127,7 +130,8 @@
       45026,
       45408,
       45706,
-      46007
+      46007,
+      46348
     ],
     "multilingual_count": [
       1728,
@@ -159,16 +163,17 @@
       3195,
       3306,
       3434,
-      3583
+      3583,
+      3666
     ],
-    "growth_rate": 74.93,
+    "growth_rate": 78.3,
     "latest_stats": {
-      "total_datasets": 5554,
-      "total_downloads": 5156058,
-      "total_likes": 46007,
+      "total_datasets": 5661,
+      "total_downloads": 6056520,
+      "total_likes": 46348,
       "top_authors": {
         "RoboCOIN": 401,
-        "lianghsun": 139,
+        "lianghsun": 140,
         "natyu666": 81,
         "BAAI": 43,
         "eduhk-compling": 38,
@@ -179,21 +184,21 @@
         "erhwenkuo": 23
       },
       "top_tasks": {
-        "text-generation": 1697,
-        "question-answering": 1046,
-        "text-classification": 587,
-        "robotics": 426,
-        "translation": 338,
-        "visual-question-answering": 187,
-        "automatic-speech-recognition": 182,
-        "image-to-text": 162,
-        "text-to-speech": 140,
-        "summarization": 130
+        "text-generation": 1734,
+        "question-answering": 1066,
+        "text-classification": 598,
+        "robotics": 427,
+        "translation": 342,
+        "visual-question-answering": 193,
+        "automatic-speech-recognition": 191,
+        "image-to-text": 166,
+        "text-to-speech": 145,
+        "summarization": 131
       },
-      "multilingual_count": 3583
+      "multilingual_count": 3666
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-05-11",
-    "total_weeks": 30
+    "last_date": "2026-05-18",
+    "total_weeks": 31
   }
 }
