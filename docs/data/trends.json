@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:58:07.588985",
+  "generated_at": "2026-07-20T02:57:26.502069",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -40,7 +40,8 @@
       "2026-06-22",
       "2026-06-29",
       "2026-07-06",
-      "2026-07-13"
+      "2026-07-13",
+      "2026-07-20"
     ],
     "total_datasets": [
       3175,
@@ -81,7 +82,8 @@
       6262,
       6396,
       6503,
-      6734
+      6734,
+      6822
     ],
     "total_downloads": [
       2453139,
@@ -122,7 +124,8 @@
       5928892,
       6107352,
       6484077,
-      6860760
+      6860760,
+      6102801
     ],
     "total_likes": [
       37415,
@@ -163,7 +166,8 @@
       48335,
       48556,
       48765,
-      49087
+      49087,
+      49364
     ],
     "multilingual_count": [
       1728,
@@ -204,13 +208,14 @@
       4087,
       4172,
       4244,
-      4319
+      4319,
+      4376
     ],
-    "growth_rate": 112.09,
+    "growth_rate": 114.87,
     "latest_stats": {
-      "total_datasets": 6734,
-      "total_downloads": 6860760,
-      "total_likes": 49087,
+      "total_datasets": 6822,
+      "total_downloads": 6102801,
+      "total_likes": 49364,
       "top_authors": {
         "RoboCOIN": 400,
         "lianghsun": 142,
@@ -224,21 +229,21 @@
         "xiaoluo11": 29
       },
       "top_tasks": {
-        "text-generation": 2076,
-        "question-answering": 1192,
-        "text-classification": 708,
+        "text-generation": 2113,
+        "question-answering": 1203,
+        "text-classification": 721,
         "robotics": 429,
-        "translation": 384,
-        "automatic-speech-recognition": 245,
-        "visual-question-answering": 239,
+        "translation": 391,
+        "automatic-speech-recognition": 252,
+        "visual-question-answering": 241,
         "image-to-text": 212,
-        "text-to-speech": 173,
-        "text-retrieval": 154
+        "text-to-speech": 181,
+        "text-retrieval": 159
       },
-      "multilingual_count": 4319
+      "multilingual_count": 4376
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-07-13",
-    "total_weeks": 39
+    "last_date": "2026-07-20",
+    "total_weeks": 40
   }
 }
