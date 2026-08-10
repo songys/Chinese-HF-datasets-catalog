@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T02:00:45.238729",
+  "generated_at": "2026-08-10T01:05:11.647414",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -43,7 +43,8 @@
       "2026-07-13",
       "2026-07-20",
       "2026-07-27",
-      "2026-08-03"
+      "2026-08-03",
+      "2026-08-10"
     ],
     "total_datasets": [
       3175,
@@ -87,7 +88,8 @@
       6734,
       6822,
       6943,
-      7288
+      7288,
+      7586
     ],
     "total_downloads": [
       2453139,
@@ -131,7 +133,8 @@
       6860760,
       6102801,
       6197415,
-      6320332
+      6320332,
+      6396138
     ],
     "total_likes": [
       37415,
@@ -175,7 +178,8 @@
       49087,
       49364,
       49636,
-      50289
+      50289,
+      50600
     ],
     "multilingual_count": [
       1728,
@@ -219,41 +223,42 @@
       4319,
       4376,
       4453,
-      4560
+      4560,
+      4681
     ],
-    "growth_rate": 129.54,
+    "growth_rate": 138.93,
     "latest_stats": {
-      "total_datasets": 7288,
-      "total_downloads": 6320332,
-      "total_likes": 50289,
+      "total_datasets": 7586,
+      "total_downloads": 6396138,
+      "total_likes": 50600,
       "top_authors": {
         "RoboCOIN": 400,
-        "lianghsun": 142,
+        "lianghsun": 144,
         "ybli": 100,
         "natyu666": 81,
-        "BAAI": 44,
-        "Gingiris": 42,
-        "eduhk-compling": 38,
-        "agentlans": 35,
-        "bhxdianzhang": 34,
-        "luckyqwe": 34
+        "maikeseo": 57,
+        "usa262": 54,
+        "phatpk": 50,
+        "seobing26": 47,
+        "kusesde": 46,
+        "BAAI": 44
       },
       "top_tasks": {
-        "text-generation": 2422,
-        "question-answering": 1242,
-        "text-classification": 739,
-        "robotics": 431,
-        "translation": 406,
-        "automatic-speech-recognition": 259,
-        "visual-question-answering": 258,
-        "image-to-text": 217,
-        "text-to-speech": 183,
-        "text-retrieval": 167
+        "text-generation": 2626,
+        "question-answering": 1260,
+        "text-classification": 757,
+        "robotics": 432,
+        "translation": 412,
+        "visual-question-answering": 264,
+        "automatic-speech-recognition": 260,
+        "image-to-text": 223,
+        "text-to-speech": 186,
+        "text-retrieval": 175
       },
-      "multilingual_count": 4560
+      "multilingual_count": 4681
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-08-03",
-    "total_weeks": 42
+    "last_date": "2026-08-10",
+    "total_weeks": 43
   }
 }
