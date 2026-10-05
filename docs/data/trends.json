@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:47:27.552457",
+  "generated_at": "2026-10-05T03:15:35.194914",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -51,7 +51,8 @@
       "2026-09-07",
       "2026-09-14",
       "2026-09-21",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-05"
     ],
     "total_datasets": [
       3175,
@@ -103,7 +104,8 @@
       8520,
       8427,
       8636,
-      8937
+      8937,
+      9165
     ],
     "total_downloads": [
       2453139,
@@ -155,7 +157,8 @@
       8639172,
       8618604,
       8678790,
-      8292192
+      8292192,
+      7661510
     ],
     "total_likes": [
       37415,
@@ -207,7 +210,8 @@
       51975,
       52763,
       53404,
-      53984
+      53984,
+      54481
     ],
     "multilingual_count": [
       1728,
@@ -259,16 +263,17 @@
       5079,
       5191,
       5354,
-      5484
+      5484,
+      5607
     ],
-    "growth_rate": 181.48,
+    "growth_rate": 188.66,
     "latest_stats": {
-      "total_datasets": 8937,
-      "total_downloads": 8292192,
-      "total_likes": 53984,
+      "total_datasets": 9165,
+      "total_downloads": 7661510,
+      "total_likes": 54481,
       "top_authors": {
         "RoboCOIN": 400,
-        "lianghsun": 157,
+        "lianghsun": 159,
         "ybli": 100,
         "usa262": 90,
         "BAAI": 86,
@@ -279,21 +284,21 @@
         "makesi1": 52
       },
       "top_tasks": {
-        "text-generation": 3167,
-        "question-answering": 1408,
-        "text-classification": 849,
-        "translation": 454,
-        "robotics": 450,
-        "visual-question-answering": 321,
-        "automatic-speech-recognition": 289,
-        "image-to-text": 258,
-        "text-retrieval": 223,
-        "text-to-speech": 206
+        "text-generation": 3276,
+        "question-answering": 1428,
+        "text-classification": 874,
+        "translation": 464,
+        "robotics": 451,
+        "visual-question-answering": 324,
+        "automatic-speech-recognition": 299,
+        "image-to-text": 261,
+        "text-retrieval": 232,
+        "text-to-speech": 210
       },
-      "multilingual_count": 5484
+      "multilingual_count": 5607
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-09-28",
-    "total_weeks": 50
+    "last_date": "2026-10-05",
+    "total_weeks": 51
   }
 }
