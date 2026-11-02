@@ -1,0 +1,33 @@
+{
+  "last_updated": "2026-11-02T03:39:13.200805",
+  "statistics": {
+    "total_datasets": 10176,
+    "total_downloads": 10438899,
+    "total_likes": 57423,
+    "top_authors": {
+      "RoboCOIN": 400,
+      "lianghsun": 192,
+      "ybli": 100,
+      "Travor278": 96,
+      "usa262": 90,
+      "BAAI": 86,
+      "natyu666": 81,
+      "maikeseo": 80,
+      "kusesde": 67,
+      "keiseoq": 63
+    },
+    "top_tasks": {
+      "text-generation": 3375,
+      "question-answering": 1517,
+      "text-classification": 997,
+      "translation": 496,
+      "robotics": 477,
+      "visual-question-answering": 358,
+      "automatic-speech-recognition": 324,
+      "image-to-text": 284,
+      "text-retrieval": 264,
+      "text-to-speech": 225
+    },
+    "multilingual_count": 6441
+  }
+}
