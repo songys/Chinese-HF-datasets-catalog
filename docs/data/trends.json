@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:50:57.772940",
+  "generated_at": "2026-11-16T04:00:01.976839",
   "trends": {
     "dates": [
       "2025-11-10",
@@ -57,7 +57,8 @@
       "2026-10-19",
       "2026-10-26",
       "2026-11-02",
-      "2026-11-09"
+      "2026-11-09",
+      "2026-11-16"
     ],
     "total_datasets": [
       3175,
@@ -115,7 +116,8 @@
       9618,
       9891,
       10176,
-      10367
+      10367,
+      10621
     ],
     "total_downloads": [
       2453139,
@@ -173,7 +175,8 @@
       8249949,
       9144446,
       10438899,
-      12286624
+      12286624,
+      13357982
     ],
     "total_likes": [
       37415,
@@ -231,7 +234,8 @@
       56056,
       56719,
       57423,
-      57834
+      57834,
+      58219
     ],
     "multilingual_count": [
       1728,
@@ -289,13 +293,14 @@
       6069,
       6243,
       6441,
-      6607
+      6607,
+      6818
     ],
-    "growth_rate": 226.52,
+    "growth_rate": 234.52,
     "latest_stats": {
-      "total_datasets": 10367,
-      "total_downloads": 12286624,
-      "total_likes": 57834,
+      "total_datasets": 10621,
+      "total_downloads": 13357982,
+      "total_likes": 58219,
       "top_authors": {
         "RoboCOIN": 400,
         "lianghsun": 153,
@@ -309,21 +314,21 @@
         "keiseoq": 63
       },
       "top_tasks": {
-        "text-generation": 3358,
-        "question-answering": 1540,
-        "text-classification": 1003,
+        "text-generation": 3410,
+        "question-answering": 1565,
+        "text-classification": 1034,
         "translation": 500,
-        "robotics": 484,
-        "visual-question-answering": 364,
-        "automatic-speech-recognition": 334,
-        "image-to-text": 286,
-        "text-retrieval": 284,
+        "robotics": 491,
+        "visual-question-answering": 367,
+        "automatic-speech-recognition": 342,
+        "image-to-text": 295,
+        "text-retrieval": 294,
         "text-to-speech": 222
       },
-      "multilingual_count": 6607
+      "multilingual_count": 6818
     },
     "first_date": "2025-11-10",
-    "last_date": "2026-11-09",
-    "total_weeks": 56
+    "last_date": "2026-11-16",
+    "total_weeks": 57
   }
 }
